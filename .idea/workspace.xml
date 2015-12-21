@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf57f959-0ff6-4493-824a-08eba4c95a1a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="C:\Vatsal\Learning\StarDocsFinal\vatsalpande.github.io\24----1---6x9-.jpg" afterPath="$PROJECT_DIR$/pic-.jpg" />
     </list>
     <ignored path="vatsalpande.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -188,7 +188,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="1" width="1918" height="1030" extended-state="1" />
+    <frame x="1" y="1" width="1918" height="1030" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2496" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
